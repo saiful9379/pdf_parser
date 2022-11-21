@@ -8,6 +8,14 @@ This report use for pdf parser purposes. it can extract text, image, cruve as we
 pdf_file_path = "data/client"
 logs_dir = "logs"
 ```
-## Run pdf_splitting.py 
+## Run below this scirpt
+```py
+pdf_spliter.py
+```
 it will save page by page pdf split using batch method and conver pdf into image
+```
+logs
+- images
+- pdfs
+```
 
