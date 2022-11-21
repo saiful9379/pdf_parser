@@ -21,5 +21,16 @@ logs
 
 # Text Line Extraction
 
+```
+Make sure splited pdf path and image path
+pdf_path ="logs/pdf"
+img_path ="logs/images"
+```
+# Run
+```
+text_extraction_line.py
+```
+![alt text](https://github.com/saiful9379/pdf_parser/logs/360 Painting 2021-FDD (page 126)_116.jpg)
+
 
 
